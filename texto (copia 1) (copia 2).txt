@@ -1,0 +1,8 @@
+Mi primer commit
+Segundo archivo
+
+La fecha es 2025/04/25
+Hoy es el primer taller de git y github
+Se trabajara al final en parejas un jueguito de trikki
+
+Hola a todos
